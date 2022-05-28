@@ -12,7 +12,7 @@
 >         'HTML', 'CSS', 'Javascript', 'SQL'
 >         ],
 >       technologies: [
->         'Git', 'NodeJS', 'React', 'MaterialUI', 'PostgreSQL', 'Express'
+>         'Git', 'NodeJS', 'React', 'Bootstrap', 'PostgreSQL', 'Express'
 >         ] 
 >       
 >     }
