@@ -12,7 +12,7 @@
 >         'HTML', 'CSS', 'Javascript', 'PHP', 'SQL'
 >         ],
 >       technologies: [
->         'Git', 'Laravel', 'React', 'Vue', 'Bootstrap', 'MySQL', 'NodeJS'
+>         'Git', 'Laravel', 'React', 'Vue', 'Tailwind', 'MySQL', 'NodeJS'
 >         ] 
 >       
 >     }
