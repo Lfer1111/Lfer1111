@@ -9,10 +9,10 @@
 >     const myStack = {
 > 
 >       languages: [
->         'HTML', 'CSS', 'Javascript', 'PHP', 'SQL'
+>         'PHP', 'C#', 'SQL', 'HTML', 'CSS', 'Javascript'
 >         ],
 >       technologies: [
->         'Git', 'Laravel', 'React', 'Vue', 'Tailwind', 'MySQL', 'NodeJS'
+>         'Git', 'Laravel', '.NET', 'React', 'Vue', 'Tailwind', 'MySQL', 'SQL Server', 'NodeJS'
 >         ] 
 >       
 >     }
