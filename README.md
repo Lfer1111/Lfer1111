@@ -7,12 +7,9 @@
 - **Mexico** will be the next technological power in the **world!**
 
 >     var myStack = new Dictionary<string, List<string>>
-> 
 >     {
-> 
 >       { "languages", new List<string> { "PHP", "C#", "SQL", "HTML", "CSS", "Javascript" } },
->       { "technologies", new List<string> { "Git", "Laravel", ".NET", "React", "Vue", "Tailwind", "MySQL", "SQL Server", "NodeJS" } }
->       
+>       { "technologies", new List<string> { "Git", "Laravel", ".NET", "React", "Vue", "Tailwind", "MySQL", "SQL Server", "NodeJS" } }  
 >     };
 
 
